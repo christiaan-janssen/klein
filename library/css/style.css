@@ -1477,6 +1477,8 @@ HEADER STYLES
     display: block;
     margin-left: auto;
     margin-right: auto;
+    width: 1140px;
+    height: auto;
   }
   .header #logo {
     padding: 0px 30px 25px 30px;
